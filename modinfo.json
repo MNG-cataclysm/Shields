@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "shields",
+    "name": "Shields",
+    "description": "Adds shields.",
+    "authors": [ "MNG-Cataclysm" ],
+    "category": "misc_additions",
+    "dependencies": [ "dda" ]
+  }
+]
