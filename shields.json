@@ -42,7 +42,7 @@
     "time": "30 m",
     "autolearn": true,
     "reversible": true,
-    "proficiencies": [ { "proficiency": "prof_carpentry_basic" }, { "proficiency": "prof_leatherworking_basic" } ],
+    "proficiencies": [ { "proficiency": "prof_carpentry_basic" } ],
     "qualities": [ { "id": "SAW_W", "level": 2 }, { "id": "HAMMER", "level": 2 }, { "id": "CUT", "level": 2 } ],
     "using": [ [ "tailoring_leather_small", 4 ] ],
     "components": [ [ [ "2x4", 6 ], [ "wood_panel", 2 ] ], [ [ "nail", 4 ] ] ]
