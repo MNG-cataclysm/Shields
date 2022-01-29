@@ -344,7 +344,7 @@
     "volume": 14,
     "price": 10000,
     "bashing": 6,
-    "material": [ "wood" ],
+    "material": [ "plastic" ],
     "symbol": "[",
     "color": "brown",
     "armor": [ 
